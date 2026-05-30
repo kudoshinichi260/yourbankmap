@@ -1,9 +1,10 @@
-import './App.css'
-import MapTest from './components/MapTest'
+// import './App.css'
+import GoongMapTest from './components/GoongMapTest';
+// import MapTest from './components/MapTest'
 
 function App() {
 
-  return MapTest();
+  return GoongMapTest();
 }
 
 export default App
